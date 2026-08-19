@@ -28,6 +28,7 @@ const mohdArshan = {
     apis: ["REST APIs"],
     cloud: ["AWS", "Terraform"],
     containers: ["Docker", "Kubernetes"],
+    monitoring: ["Prometheus", "Grafana"],
     scripting: ["Bash Scripting", "Linux"],
     versionControl: ["GitHub", "GitLab"],
     other: ["Networking"]
@@ -41,30 +42,6 @@ const mohdArshan = {
 
 <br/>
 
-## 🚀 Featured Projects
-
-### 🔐 CAMSAFE Safety Camera
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshan1041&repo=CAMSAFE_Safety_Camera&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="CAMSAFE Safety Camera"/>
-</div>
-
-An intruder detection system combining OpenCV, machine learning, and NLP for real-time safety monitoring.
-
-| Layer | Technology |
-|---|---|
-| Vision | OpenCV |
-| Intelligence | Machine Learning, NLP |
-| Language | Python |
-
-<div align="center">
-
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshan1041/CAMSAFE_Safety_Camera)
-
-</div>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -73,7 +50,7 @@ An intruder detection system combining OpenCV, machine learning, and NLP for rea
 
 **Backend & Infra**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,github,gitlab,prometheus,grafana" />
 
 **Cloud & IaC**
 
@@ -81,20 +58,9 @@ An intruder detection system combining OpenCV, machine learning, and NLP for rea
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arshan1041&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshan1041&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=arshan1041&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
-
-</div>
 
 ## 🏆 Trophies
 
