@@ -30,13 +30,13 @@ const mohdArshan = {
     containers: ["Docker", "Kubernetes"],
     monitoring: ["Prometheus", "Grafana"],
     scripting: ["Bash Scripting", "Linux"],
-    versionControl: ["GitHub", "GitLab"],
+    versionControl: ["GitHub", "GitLab CI/CD"],
     other: ["Networking"]
   },
   launchedProjects: ["CAMSAFE_Safety_Camera"],
-  certifications: [],
+  certifications: [AWS Certified Cloud Practitioner, Oracle APEX Cloud Developer Certified Professional],
   status: "Shipping infra & automation, one pipeline at a time",
-  openTo: ["DevOps Engineering roles", "Full-time opportunities"]
+  openTo: ["DevOps Engineering roles", "Cloud Engineering roles", "Full-time opportunities"]
 };
 ```
 
