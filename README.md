@@ -35,7 +35,6 @@ const mohdArshan = {
   },
   launchedProjects: ["CAMSAFE_Safety_Camera"],
   certifications: [AWS Certified Cloud Practitioner, Oracle APEX Cloud Developer Certified Professional],
-  status: "Shipping infra & automation, one pipeline at a time",
   openTo: ["DevOps Engineering roles", "Cloud Engineering roles", "Full-time opportunities"]
 };
 ```
