@@ -30,7 +30,7 @@ const mohdArshan = {
     containers: ["Docker", "Kubernetes"],
     monitoring: ["Prometheus", "Grafana"],
     scripting: ["Bash Scripting", "Linux"],
-    versionControl: ["Git/GitHub", "GitLab CI/CD"],
+    versionControl: ["GitHub", "GitLab CI/CD"],
     other: ["Networking"]
   },
   launchedProjects: ["CAMSAFE_Safety_Camera"],
